@@ -2,7 +2,7 @@
 ======================================
 #### 1주차 과제 (2020.09.17) 
 -------------------------------------
-
+(https://github.com/Yegee1210/yegeelee/blob/master/%EC%9D%B4%EC%98%88%EC%A7%80_1%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%99%84%EC%A3%BC%EB%B0%98.ipynb)
 
 
 
